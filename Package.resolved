@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Vaux",
+        "repositoryURL": "https://github.com/dokun1/Vaux.git",
+        "state": {
+          "branch": null,
+          "revision": "664443da14a65f8068e4f0b672409c81be20255b",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
